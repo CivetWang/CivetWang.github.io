@@ -1,6 +1,8 @@
 name:"Civet"
 navbar:
-  title:""
+  title:"Hey"
   left:
-    -text:"Home"
-     href:index.html
+  -text:"Home"
+   href:index.html
+  -text:"Bibliography"
+   href:Bibliography.html
