@@ -1,8 +1,8 @@
-name:"Civet"
+name: "Civet Wang"
 navbar:
-  title:"Hey"
+  title: "My Website"
   left:
-  -text:"Home"
-   href:index.html
-  -text:"Bibliography"
-   href:Bibliography.html
+    - text: "Home"
+      href: index.html
+    - text: "Beer Study"
+      href: DS6306CaseStudy1.html
